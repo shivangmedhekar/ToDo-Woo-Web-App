@@ -30,6 +30,8 @@ After downloading the repository, you must run **manage.py** script with **pytho
 
     $ python manage.py runserver
     
+After the server is up and running go to the web url provided by Django to view the web app in any broswer.
+    
 
 ## Web App by
 |  **Shivang Medhekar** |
