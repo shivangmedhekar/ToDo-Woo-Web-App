@@ -3,6 +3,9 @@
 The Following Web App is Todo list app which lets users to create the ID in the app and maintain a todo list which they can mark important, completed or delete it if required.
 The Web app is completely responsive and can used on mobile broswers.
 
+![](screenshots/home%20page.png)
+
+
 ## Features of Web App
 - Lets users Sign up or Login
 - Create and maintain multiple todo lists
@@ -10,6 +13,20 @@ The Web app is completely responsive and can used on mobile broswers.
 - Highlight Important Todo Lists
 - Modify existing Todo list
 - Delete Todo lists
+
+## Screenshots
+
+### Authentication
+Sign Up             |  Login
+:-------------------------:|:-------------------------:
+![](screenshots/sign%20up%20page.png)  |  ![](screenshots/login%20page.png)
+
+### Todo Woo App
+
+Create and Modify Todo            |  View Current |  View Completed 
+:-------------------------:|:-------------------------: |:-------------------------:
+![](screenshots/create%20page.png)  |  ![](screenshots/current%20todos.png)  |  ![](screenshots/completed%20todos.png)
+
 
 ## Requirements
 - Python 3.x
